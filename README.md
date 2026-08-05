@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [1021-remove-outermost-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
