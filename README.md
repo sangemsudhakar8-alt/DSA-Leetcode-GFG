@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
