@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
