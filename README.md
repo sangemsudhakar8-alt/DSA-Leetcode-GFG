@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0387-first-unique-character-in-a-string) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0141-linked-list-cycle](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0876-middle-of-the-linked-list) |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
