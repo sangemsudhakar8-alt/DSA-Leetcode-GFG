@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
