@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0940-distinct-subsequences-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 ## Manacher
 |  |
 | ------- |
