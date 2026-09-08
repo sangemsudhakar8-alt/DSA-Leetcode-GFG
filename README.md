@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2181-merge-nodes-in-between-zeros) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
