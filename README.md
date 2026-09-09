@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3904-smallest-stable-index-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
@@ -211,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
