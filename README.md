@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
