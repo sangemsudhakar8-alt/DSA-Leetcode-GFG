@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
