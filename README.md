@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Monotonic Stack
 |  |
