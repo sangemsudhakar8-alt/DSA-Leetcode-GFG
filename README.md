@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3524-find-x-value-of-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3904-smallest-stable-index-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3904-smallest-stable-index-ii) |
 ## Pigeonhole Principle
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String Matching
 |  |
 | ------- |
@@ -291,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
