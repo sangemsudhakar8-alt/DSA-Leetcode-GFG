@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0085-maximal-rectangle) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Monotonic Queue
 |  |
 | ------- |
