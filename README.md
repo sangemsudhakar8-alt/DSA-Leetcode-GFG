@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dynamic Programming
