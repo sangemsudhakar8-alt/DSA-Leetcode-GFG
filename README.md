@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Trie
 |  |
 | ------- |
@@ -333,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
