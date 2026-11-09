@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0088-merge-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0115-distinct-subsequences) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0796-rotate-string) |
 ## Queue
 |  |
@@ -342,4 +345,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
