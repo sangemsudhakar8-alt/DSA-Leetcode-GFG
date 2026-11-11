@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
 | [3524-find-x-value-of-array-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3524-find-x-value-of-array-i) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Z Algorithm
 |  |
