@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Z Algorithm
