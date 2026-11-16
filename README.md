@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
