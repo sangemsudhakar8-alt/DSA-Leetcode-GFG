@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0036-valid-sudoku) |
+| [0078-subsets](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0088-merge-sorted-array) |
@@ -346,9 +347,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2220-minimum-bit-flips-to-convert-number) |
