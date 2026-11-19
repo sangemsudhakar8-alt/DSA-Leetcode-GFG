@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0205-isomorphic-strings) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0191-number-of-1-bits) |
