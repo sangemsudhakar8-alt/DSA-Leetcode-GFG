@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
 | [3524-find-x-value-of-array-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3524-find-x-value-of-array-i) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0371-sum-of-two-integers) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Z Algorithm
