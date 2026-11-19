@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1441-build-an-array-with-stack-operations) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0451-sort-characters-by-frequency) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Trie
 |  |
