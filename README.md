@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0085-maximal-rectangle) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
