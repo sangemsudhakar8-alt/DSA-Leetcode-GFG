@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
