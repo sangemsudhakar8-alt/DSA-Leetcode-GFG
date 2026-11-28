@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0137-single-number-ii) |
 | [0239-sliding-window-maximum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0455-assign-cookies) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
@@ -400,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0100-same-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
