@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1922-count-good-numbers) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0486-predict-the-winner](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0940-distinct-subsequences-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/3483-unique-3-digit-even-numbers) |
@@ -408,4 +412,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0455-assign-cookies) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sangemsudhakar8-alt/DSA-Leetcode-GFG/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
